@@ -27,7 +27,6 @@ public class ConfNodeEventListener implements CuratorListener {
         }
 
         final WatchedEvent watchedEvent = event.getWatchedEvent();
-
         if (watchedEvent.getState() == Watcher.Event.KeeperState.SyncConnected) {
             boolean someChange = false;
             switch (watchedEvent.getType()) {
