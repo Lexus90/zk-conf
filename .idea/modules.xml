@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/zk-conf/zk-conf.iml" filepath="$PROJECT_DIR$/zk-conf/zk-conf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zk-conf/zk-conf-package.iml" filepath="$PROJECT_DIR$/zk-conf/zk-conf-package.iml" />
+    </modules>
+  </component>
+</project>
